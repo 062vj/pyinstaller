@@ -1,0 +1,17 @@
+altgraph
+anyio
+click
+colorama
+fastapi
+future
+h11
+idna
+pefile
+pydantic
+pyinstaller
+pyinstaller-hooks-contrib
+pywin32-ctypes
+sniffio
+starlette
+typing_extensions
+uvicorn
